@@ -1,5 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700;800&display=swap");
 
+* {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+html,
+body,
+button,
+input,
+textarea,
+select {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
 :root {
   --pink: #ffb5a7;
   --soft-pink: #fcd5ce;
